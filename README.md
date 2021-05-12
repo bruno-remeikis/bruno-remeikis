@@ -9,6 +9,8 @@ I'm a FullStack developer:
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -25,7 +27,7 @@ I'm a FullStack developer:
 <br />
 <br />
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-arround">
+<div align="center">
   
 [![BRUNO REMEIKIS's github stats](https://github-readme-stats.vercel.app/api?username=bruno-remeikis&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-remeikis&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
