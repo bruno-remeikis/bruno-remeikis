@@ -2,11 +2,11 @@
 
 ### Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px"/> I'm [Bruno Remeikis][linkedin].
 
-I'm a FullStack developer:
+I'm a FullStack developer 💻:
 
-- 🔭 I’m currently working at SEFAZ - Secretaria do Estado da Fazenda
-- 🌱 I’m currently learning React Native
-- ⚡ Fun fact: I love to sing and play instruments like guitar and piano
+- 💼 I’m currently working at SEFAZ - Secretaria do Estado da Fazenda
+- 📚 I’m currently learning React Native
+- ⚡ Fun fact: I love to sing 🎤 and play instruments 🎵 like guitar 🎸 and piano 🎹
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
