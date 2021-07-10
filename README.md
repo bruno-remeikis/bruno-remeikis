@@ -1,4 +1,5 @@
 [linkedin]: https://www.linkedin.com/in/bruno-remeikis-b9a6a2202/
+[website]: https://portifolio-remeikis.vercel.app/
 
 ### Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px"/> I'm [Bruno Remeikis][linkedin].
 
@@ -11,7 +12,7 @@ I'm a FullStack developer 💻:
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] LinkedIn
 <br />
-[<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][linkedin] WebSite
+[<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website] WebSite
 
 <br />
 
