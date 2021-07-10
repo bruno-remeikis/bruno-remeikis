@@ -4,7 +4,7 @@
 
 I'm a FullStack developer 💻:
 
-- 💼 I’m currently working at SEFAZ - Secretaria do Estado da Fazenda
+- 💼 I’m currently working at CSI - Soluções & Tecnologia
 - 📚 I’m currently learning React Native
 - ⚡ Fun fact: I love to sing 🎤 and play instruments 🎵 like guitar 🎸 and piano 🎹
 
