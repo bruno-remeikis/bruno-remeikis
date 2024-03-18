@@ -11,42 +11,17 @@ I'm a Full Stack developer 💻:
 - ⚡ Fun fact: I love to sing 🎤 and play instruments 🎵 like guitar 🎸 and piano 🎹
 
 ### Connect with me:
-<div style="display: flex; gap: 8px">
-    <!--<img alt="Java" src="https://img.shields.io/badge/LinkedIn-cf1717?style=for-the-badge&logo=openjdk&logoColor=white">-->
-    <a
-        href="https://www.linkedin.com/in/bruno-remeikis-b9a6a2202/"
-        target="_blank"
-        style="display: flex; gap: 4px; align-items: center; background: white; color: black; padding: 4px 6px; border-radius: 12px"
-    >
-        <img
-            alt="LinkedIn"
-            width="40px"
-            src="https://skillicons.dev/icons?i=linkedin"
-            style="background-color: ; font-weight: bold;"
-        />
-        <span style="color: #0A66C2; font-size: 30px; font-weight: bold;">LinkedIn</span>
-    </a>
-    <a
-        href="https://www.linkedin.com/in/bruno-remeikis-b9a6a2202/"
-        target="_blank"
-        style="display: flex; gap: 4px; align-items: center; background: #E34F26; color: black; padding: 4px 6px; border-radius: 12px"
-    >
-        <img
-            alt="Website"
-            width="40px"
-            src="https://skillicons.dev/icons?i=html"
-            style="font-weight: bold;"
-        />
-        <span style="color: white; font-size: 30px; font-weight: bold;">Portifólio</span>
-    </a>
-</div>
+[![](linkedin-button.png)](https://www.linkedin.com/in/bruno-remeikis-b9a6a2202/)
+[![](portifolio-button.png)](https://portifolio-remeikis.vercel.app/)
+
+<br />
+
 <!--
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] LinkedIn
 <br />
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website] WebSite]
 -->
 
-<br />
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,nextjs,angular,html,css,kafka&theme=light)](https://skillicons.dev)
