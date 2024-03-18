@@ -13,6 +13,7 @@ I'm a Full Stack developer 💻:
 ### Connect with me:
 [![](linkedin-button.png)](https://www.linkedin.com/in/bruno-remeikis-b9a6a2202/)
 [![](portifolio-button.png)](https://portifolio-remeikis.vercel.app/)
+[![](whatsapp-button.png)](https://wa.me//5527995898501?text=Olá,%20Bruno!%20vim%20através%20do%20seu%20GitHub.)
 
 <br />
 
