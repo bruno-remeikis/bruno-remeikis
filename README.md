@@ -23,13 +23,13 @@ I'm a Full Stack developer 💻:
 -->
 
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,nextjs,angular,html,css,kafka&theme=light)](https://skillicons.dev)
+### Some of my Skills:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,nextjs,angular,html,css,kafka&theme=light)](https://portifolio-remeikis.vercel.app/)
 <!-- hibernate,sass,tailwind -->
 
 <!--[![My Skills](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
+[![Gif](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://portifolio-remeikis.vercel.app/)
 
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"             alt="HTML5"></code>
@@ -50,10 +50,12 @@ I'm a Full Stack developer 💻:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"         alt="Python" /></code>
 -->
 
+<br />
+
 <div align="center">
   
-<!--[![BRUNO REMEIKIS's github stats](https://github-readme-stats.vercel.app/api?username=bruno-remeikis&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-remeikis&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![BRUNO REMEIKIS's github stats](https://github-readme-stats.vercel.app/api?username=bruno-remeikis&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -79,7 +81,10 @@ I'm a Full Stack developer 💻:
 </div>
 -->
 
-<div style="display: flex; justify-content: end; align-items: end; background: white">
-    <div style="background: rgb(0, 49, 64); width: 30px; height: 27.2px; clip-path: polygon(100% 0, 100% 100%, 0 100%); margin-right: -1px"></div>
-    <img src="code.gif" width="300px" />
-</div>
+<!--<div style="width: 100%; display: flex; justify-content: end; align-items: end; background: white">
+  
+<div style="background: rgb(0, 49, 64); width: 30px; height: 27.2px; clip-path: polygon(100% 0, 100% 100%, 0 100%); margin-right: -1px"></div>
+
+<img src="code.gif" width="300px" />
+
+</div>-->
