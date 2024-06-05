@@ -6,8 +6,8 @@
 
 I'm a Full Stack developer 💻:
 
-- 💼 I’m currently working at CSI - Soluções & Tecnologia
-- 📚 I’m currently learning TailwindCSS and Docker
+- 💼 I’m currently working at [SoftExpert](https://www.softexpert.com/pt-br/)
+- 📚 I'm constantly looking to improve my front-end development skills
 - ⚡ Fun fact: I love to sing 🎤 and play instruments 🎵 like guitar 🎸 and piano 🎹
 
 ### Connect with me:
